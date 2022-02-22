@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -26,7 +27,9 @@ public class MainActivity extends AppCompatActivity {
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                String t1Texto = "Nome: "+e1.getText()+"Senha :"+e2.getText()+"Vencimento: "+e3.getText();
                 t1.setText("Nome: "+e1.getText()+"\nSenha :"+e2.getText()+"\nVencimento: "+e3.getText() );
+                Toast.makeText(getApplicationContext(), t1Texto.toString(), Toast.LENGTH_SHORT).show();
             }
         });
     }
