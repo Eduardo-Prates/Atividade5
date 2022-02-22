@@ -5,4 +5,7 @@
     <string name="digite_a_data_de_vencimento">Digite a data de vencimento</string>
     <string name="digite_sua_senha_do_banco">Digite sua senha do banco</string>
     <string name="enviar">Enviar</string>
+    <string name="digite_seu_email">Digite seu email</string>
+    <string name="digite_sua_senha_do_orkut">Digite sua senha do Orkut</string>
+    <string name="digite_o_telefone_do_seu_primo">Digite o telefone do seu primo</string>
 </resources>
