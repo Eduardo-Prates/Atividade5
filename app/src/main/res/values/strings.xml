@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista2</string>
+    <string name="digite_o_nome_no_seu_cart_o">Digite o nome no seu cartão</string>
+    <string name="digite_os_3_digitos_atr_s_dele">Digite os 3 digitos atrás dele</string>
+    <string name="digite_a_data_de_vencimento">Digite a data de vencimento</string>
+    <string name="digite_sua_senha_do_banco">Digite sua senha do banco</string>
+    <string name="enviar">Enviar</string>
+</resources>
